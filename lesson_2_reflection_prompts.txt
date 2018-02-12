@@ -1,3 +1,4 @@
+
 What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository?
@@ -25,10 +26,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-How do the diagrams help you visualize the branch structur?
+How do the diagrams help you visualize the branch structuree?
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
-
-What is the benefit of having a copy of the last known state of the remote stored locally?
