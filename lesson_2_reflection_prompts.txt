@@ -31,3 +31,5 @@ How do the diagrams help you visualize the branch structuree?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
